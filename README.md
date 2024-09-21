@@ -1,7 +1,5 @@
--INTRODUCTION
-
+INTRODUCTION
 Hello 👋, I'm Loveraj a 1st year student and GDSC Volunteer at Maharishi markandeshwar deemed to be University . I have a strong approach in web development and Python .
--
 - 👋 Hi, I’m @Loveraj
 - 👀 I’m interested in Fullstack Development and Game Development.
 - 🌱 I’m currently learning Full-Stack Development.
